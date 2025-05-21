@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Understanding GenAI to support student researchers in an undergrad lab courses</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise/TaHQSMG85AnvtpTX4VG_NqBl0gKaEedD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introduction/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise/ROhzr3q02n_ZnyLBS1cQ0NhynClbjZ9G" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">The Importance of GenAI Literacy for Educators/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise/U21jdV6_TkuuDlH-4pqNu6f3IWJfqa37" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Fostering GenAI literacy /section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise/Oyllzjr6sNRPRJF_FFYJQKRtwV5S_neq" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">The Power of Prompt Engineering/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise/KcCB2ZLqpUXWmcuBNOQu3qcHNwTpu7BH" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Understanding Saturation/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise/mS0TdFbKki-X7S8Keaoj63QA_vy6NIoO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Critical Evaluation of GenAI Outputs/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://_oxYJ82ZivoMAy1j-HUpese0D9fnV4Mq_rise/8_E4kk31mronwm587Bj-rY6hST5ugFkW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Strategies for Fostering GenAI Literacy in a physiology laboratory course/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
